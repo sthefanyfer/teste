@@ -1,0 +1,63 @@
+As diferenças entre 3 linguagens de programação.
+
+Trago a seguir as mais populares:
+
+1. Python
+Descrição:
+
+Paradigma: Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por sua sintaxe clara e legibilidade.
+Usos Comuns: Desenvolvimento web, automação, análise de dados, inteligência artificial, scripts de automação.
+
+Exemplo de Código Mínimo (Hello, World):
+print("Hello, World!")
+
+
+2. JavaScript
+Descrição:
+
+Paradigma: JavaScript é uma linguagem de script interpretada, comumente usada no desenvolvimento web para criar interatividade em páginas da web. É executada principalmente no navegador, mas também pode ser usada no backend com Node.js.
+Usos Comuns: Desenvolvimento web (frontend e backend), desenvolvimento de aplicativos móveis, automação de tarefas.
+
+ Exemplo de Código Mínimo (Hello, World):
+console.log("Hello, World!");
+
+
+3. Java
+Descrição:
+
+Paradigma: Java é uma linguagem de programação orientada a objetos, compilada e com tipagem estática. É conhecida por sua portabilidade (write once, run anywhere), robustez e uso extensivo em aplicações corporativas.
+Usos Comuns: Desenvolvimento de aplicações empresariais, aplicativos móveis (Android), sistemas embarcados, jogos.
+
+ Exemplo de Código Mínimo (Hello, World):
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+Diferenças Entre as Linguagens:
+
+-Tipagem:
+Python: Dinâmica, você não precisa declarar o tipo da variável.
+JavaScript: Dinâmica, mas com suporte a tipagem estática em TypeScript.
+Java: Estática, o tipo de cada variável deve ser declarado explicitamente.
+
+-Execução:
+Python e JavaScript são interpretadas, o que permite execução imediata sem necessidade de compilação.
+Java é compilada em bytecode, que depois é interpretado pela Java Virtual Machine (JVM).
+
+-Usos Comuns:
+Python é preferida em ciência de dados e automação.
+JavaScript domina o desenvolvimento web.
+Java é amplamente usada em grandes sistemas empresariais e desenvolvimento Android.
+
+
+
+
+
+
+
+
+
+Códigos aplicados à cada uma das 3 linguagens:
